@@ -1,4 +1,8 @@
-# Pizzaria Choupana — site e pedidos online
+# Pizzaria — site e pedidos online
+<img width="1772" height="1136" alt="image" src="https://github.com/user-attachments/assets/5a26f4a0-bb2b-4440-84e3-06916ac7933b" />
+
+
+
 
 Next.js + Supabase. O site tem duas páginas:
 
